@@ -2,8 +2,8 @@
   "name": "@pdasolutions/web",
   "version": "0.1.6",
   "description": "This is components aplications for PDA-Solucoes",
-  "main": "src/index.ts",
-  "types": "src/@types/index.d.ts",
+  "main": "./lib/index.ts",
+  "types": "./lib/@types/index.d.ts",
   "scripts": {
     "test": "jest"
   },
@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/GabrielBizzi/pda-solucoes.git"
   },
-  "author": "Gabriel Bizzi & Rodrigo Cordeiro",
+  "author": "Gabriel Bizzi (https://github.com/GabrielBizzi)",
+  "contributors": [
+    "Rodrigo Cordeiro <rodrigomendoncca@gmail.com> (https://rodcordeiro.com.br/)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/GabrielBizzi/pda-solucoes/issues"
