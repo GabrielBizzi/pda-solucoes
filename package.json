@@ -1,6 +1,6 @@
 {
   "name": "@pdasolutions/web",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "This is components aplications for PDA-Solucoes",
   "main": "./lib/index.ts",
   "types": "./lib/@types/index.d.ts",
