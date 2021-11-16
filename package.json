@@ -2,8 +2,8 @@
   "name": "@pdasolutions/web",
   "version": "0.1.7",
   "description": "This is components aplications for PDA-Solucoes",
-  "main": "./lib/index.ts",
-  "types": "./lib/@types/index.d.ts",
+  "main": "./lib/index.js",
+  "types": "./lib/index",
   "scripts": {
     "test": "jest"
   },
