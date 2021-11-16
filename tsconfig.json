@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "downlevelIteration": true,
+      "module": "commonjs",
+      "sourceMap": true,
+      "outDir": "./lib",
+      "rootDir": "./src",
+      "strict": true,
+      "typeRoots": ["./src/@types", "./node_modules/@types"],
+      "esModuleInterop": true,
+      "declaration": true,
+      "jsx": "react-jsx",
+      "skipLibCheck": true
+    },
+    "include": [
+      "src"
+    ],
+    "exclude": [
+      "**/*.spec.ts"
+    ]
+  }
