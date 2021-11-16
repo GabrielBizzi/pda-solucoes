@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link test with image hover 1`] = `
+<div
+  className="sc-bdvvtL zYqdz"
+>
+  <a>
+    Link
+  </a>
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root"
+    focusable="false"
+    height="1.5em"
+    viewBox="0 0 24 24"
+    width="1.5em"
+  >
+    <path
+      d="M12.2266 11.5C12.5027 11.5 12.7266 11.7239 12.7266 12C12.7266 12.2761 12.5027 12.5 12.2266 12.5V11.5ZM2.89741 12.5C2.62127 12.5 2.39741 12.2761 2.39741 12C2.39741 11.7239 2.62127 11.5 2.89741 11.5V12.5ZM12.2266 12.5H2.89741V11.5H12.2266V12.5Z"
+      fill="#12AAFF"
+    />
+    <path
+      d="M15.352 11.8142L13.5618 10.2023C13.047 9.7388 12.2265 10.1041 12.2265 10.7968V13.2032C12.2265 13.8959 13.047 14.2612 13.5618 13.7977L15.352 12.1858C15.4623 12.0865 15.4623 11.9135 15.352 11.8142Z"
+      fill="#12AAFF"
+    />
+  </svg>
+</div>
+`;
